@@ -8,6 +8,26 @@
       "expo-router"
     ],
     "name": "reactnativeproj",
-    "slug": "reactnativeproj"
+    "slug": "reactnativeproj",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e04c4cf4-9e93-43bf-8a2a-b0b8edc484d1"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e04c4cf4-9e93-43bf-8a2a-b0b8edc484d1"
+    },
+    "android": {
+      "package": "com.aegisxcraft.reactnativeproj"
+    },
+    "ios": {
+      "bundleIdentifier": "com.aegisxcraft.reactnativeproj"
+    }
   }
 }
